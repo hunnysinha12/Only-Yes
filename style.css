@@ -77,3 +77,20 @@ button:nth-child(2) {
     margin-right: -200px;
     color: #7d2ae8;
 }
+
+
+#mute-btn {
+    position: absolute;
+    bottom: -200px;
+    right: 20px;
+    padding: 10px 20px;
+    font-size: 1em;
+    color: #fff;
+    background: #7d2ae8;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 10;
+    width: 100px;
+    height: 100px;
+}
